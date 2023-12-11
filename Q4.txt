@@ -1,0 +1,15 @@
+Q. 4
+
+	1) Use colors carefully
+
+		Colors can help your users easily distinguish different sets of information. However, color blindness and other disabilities can make it difficult for users to find information, call-to-action buttons, or other aspects when developers fail to maintain a proper contrast of colors. To check the contrast of colors on your site, add the Google Chrome extension
+
+
+	Use descriptive title for links
+
+		Using descriptive titles for links will make it easier for those who rely on screen readers to navigate your website to understand the purpose of the link and where they will be redirected.s
+
+
+	3|) Assign alt tags for images
+
+		Images on a webpage provide great value to users. Nonetheless, they can create barriers for users with limited or impaired vision. Therefore, assigning alt tags to images will provide a description of the images allowing users to understand the image through the use of a screen reader. Alt tags also contribute to a higher SEO score on Google.

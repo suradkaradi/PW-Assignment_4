@@ -1,0 +1,10 @@
+Q2
+	Ans
+	
+
+	&	&amp;	   Interpreted as the beginning of an entity or character reference.
+	©	&copy;	Interpreted as the copyright sign.
+	<	&lt;	Interpreted as the beginning of a tag
+	>	&gt;	Interpreted as the ending of a tag
+	®	&reg;	Interpreted as the registered sign.
+	
